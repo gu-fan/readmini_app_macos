@@ -1,0 +1,15 @@
+let defaultFeedCatalog = [
+    DefaultFeedSource(title: "少数派", url: "https://sspai.com/feed", note: "效率与数字生活"),
+    DefaultFeedSource(title: "美团技术团队", url: "https://tech.meituan.com/feed", note: "工程实践"),
+    DefaultFeedSource(title: "爱范儿", url: "https://www.ifanr.com/feed", note: "科技与消费"),
+    DefaultFeedSource(title: "蛋解创业", url: "https://rss.lizhi.fm/rss/206682.xml", note: "创业与商业播客"),
+    DefaultFeedSource(title: "大内密谈", url: "https://rss.lizhi.fm/rss/14275.xml", note: "播客节目"),
+    DefaultFeedSource(title: "说点傻话", url: "https://www.ximalaya.com/album/51639589.xml", note: "播客节目"),
+    DefaultFeedSource(title: "无聊斋", url: "https://www.ximalaya.com/album/14302859.xml", note: "播客节目"),
+    DefaultFeedSource(title: "经典留声机", url: "https://www.ximalaya.com/album/290996.xml", note: "播客节目"),
+    DefaultFeedSource(title: "一闻一见", url: "https://www.ximalaya.com/album/15968284.xml", note: "播客节目"),
+    DefaultFeedSource(title: "机核", url: "https://www.gcores.com/rss", note: "游戏与文化"),
+    DefaultFeedSource(title: "理想生活实验室", url: "https://www.toodaylab.com/feed", note: "生活方式与设计"),
+    DefaultFeedSource(title: "人人都是产品经理", url: "https://www.woshipm.com/feed", note: "产品与运营"),
+    DefaultFeedSource(title: "胡涂说", url: "https://hutusi.com/feed.xml", note: "个人写作与思考"),
+]
